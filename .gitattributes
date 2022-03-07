@@ -1,0 +1,4 @@
+/PS4_DDON_v02020005_2016-12-21/\[PS4\][[:space:]]Dragon's[[:space:]]Dogma[[:space:]]Online[[:space:]](v02020005)[[:space:]]\[2016-12-21\]_DDORBIS.elf.c filter=lfs diff=lfs merge=lfs -text
+/PS4_DDON_v02020005_2016-12-21/\[PS4\][[:space:]]Dragon's[[:space:]]Dogma[[:space:]]Online[[:space:]](v02020005)[[:space:]]\[2016-12-21\]_DDORBIS.elf_function.csv filter=lfs diff=lfs merge=lfs -text
+/PS4_DDON_v02020005/DDORBIS.elf.c filter=lfs diff=lfs merge=lfs -text
+/PS4_DDON_v02020005/DDORBIS.elf_function.csv filter=lfs diff=lfs merge=lfs -text
